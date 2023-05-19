@@ -1,1 +1,2 @@
 # odin-recipes
+So far i have learned the basic stractural HTML elements, like headings, paragraph, lists, file structure and embedding images. I have tried to apply all the things I have learnd so far to complete this project.
