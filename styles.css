@@ -27,6 +27,13 @@ p.solution_one {
 li {
     display: inline;
     margin-left: 260px;
+    background-color: whitesmoke;
+    padding: 10px;
+    font-weight: 400;
+}
+li:hover{
+    background-color: aliceblue;
+    color:black;
 }
 .left-end {
     margin-left: 20px;
