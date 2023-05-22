@@ -25,17 +25,18 @@ p.solution_one {
     font-size: 22px;
 }
 li {
-    display: inline;
-    margin-left: 260px;
+    display: inline-block;
     background-color: whitesmoke;
     padding: 10px;
     font-weight: 400;
-}
-li:hover{
-    background-color: aliceblue;
-    color:black;
+    margin: 8px auto 4px 260px;
 }
 .left-end {
     margin-left: 20px;
 }
-
+ul {
+    background-color: rgb(102, 102, 101);
+    padding-top:70px;
+    margin: 5px -10px -8px -8px;
+    height: 200px;
+}
