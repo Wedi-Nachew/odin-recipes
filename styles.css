@@ -10,7 +10,7 @@ body {
 h1 {
     text-align: center;
     font-size: 60px;
-    font-family: 'Brush script MT', cursive;
+    font-family: 'Courier New', Courier, monospace;
     border: 4px dotted white;
 }
 img {
