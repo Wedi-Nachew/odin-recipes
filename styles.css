@@ -26,17 +26,22 @@ p.solution_one {
 }
 li {
     display: inline-block;
-    background-color: whitesmoke;
+    background-color:#0dccac;
     padding: 10px;
     font-weight: 400;
     margin: 8px auto 4px 260px;
+    border: 1px solid blanchedalmond;
 }
 .left-end {
     margin-left: 20px;
 }
 ul {
-    background-color: rgb(102, 102, 101);
+    background-color: #0dccac;
     padding-top:70px;
     margin: 5px -10px -8px -8px;
     height: 200px;
 }
+li a { 
+   color:black;
+   font-weight: 500;
+} 
